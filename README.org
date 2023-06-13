@@ -1,0 +1,10 @@
+* romreader
+
+A library for reading game roms.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/redline6561/romreader.git   |
+| commit  | f1de621  |
+| systems | romreader |
+|---------+-------------------------------------------|
+
